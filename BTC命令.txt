@@ -1,0 +1,9 @@
+Bitcoin Core钱包控制台操作命令：
+1)，Bitcoin Core解锁命令：
+walletpassphrase 密码 解锁持续时间（秒）
+（注意这三段字符之间分别用英文输入法状态下的空格隔开）
+2)，Bitcoin Core导出私钥命令：
+dumpprivkey 地址
+（52位私钥，字母区分大小写、字母数字混合）
+3)，导入私钥
+importprivkey 私钥

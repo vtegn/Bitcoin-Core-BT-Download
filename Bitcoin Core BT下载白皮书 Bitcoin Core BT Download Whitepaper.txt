@@ -1,0 +1,31 @@
+Bitcoin Core BT下载白皮书
+随着Bitcoin的发展，下载Bitcoin Core全节点钱包（慢）成为很大的问题；往往你需要下载很久。Bitcoin Core 全节点钱包可以使您交易节省手续费。
+
+为解决Bitcoin Core钱包下载速度慢、全球范围内普及与维护Bitcoin的安全；加强Bitcoin网络安全，以及部分地区用户下载Bitcoin Core钱包网络慢等问题，我们推出了Bitcoin Core BT下载版本。我们计划每个月更新一次种子文件（torrent），如果经济条件允许，我们还会推出云盘和网盘版本。
+
+如果这使您得到帮助，您可以向我们的钱包地址捐款，我们将非常感激。
+
+我们的钱包地址是：bc1qx2uj4zs2r7zntxmzppwjxgmn3zg8a6d6fgul5m
+
+下载地址：Bitcoin.vtegn.com
+
+Bitcoin2024-3-11.torrent是我们制作的第一个种子。
+
+
+
+白皮书英文：
+
+
+
+Bitcoin Core BT Download Whitepaper
+As Bitcoin evolves, downloading the full node wallet of Bitcoin Core (slow) has become a significant issue; it often takes a long time. The Bitcoin Core full node wallet can help you save on transaction fees.
+
+To address the slow download speeds of the Bitcoin Core wallet, its global proliferation, and the maintenance of Bitcoin's security; to strengthen the security of the Bitcoin network, and the issue of slow network speeds for users in certain regions downloading the Bitcoin Core wallet, we have introduced the Bitcoin Core BT download version. We plan to update the torrent file monthly, and if economic conditions permit, we will also release cloud and web disk versions.
+
+If this has been of help to you, you may donate to our wallet address, and we would be very grateful.
+
+Our wallet address is: bc1qx2uj4zs2r7zntxmzppwjxgmn3zg8a6d6fgul5m
+
+Download address: Bitcoin.vtegn.com
+
+Bitcoin2024-3-11.torrent is our first seed file created.
